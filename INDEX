@@ -1,0 +1,2 @@
+dynamics.fit	function to fit the autonomous dynamics system 
+dynamics.cv	funciton to calculate the approximate leave-one-curve-out cv score

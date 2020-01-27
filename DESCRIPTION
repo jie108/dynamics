@@ -1,0 +1,9 @@
+Package: dynamics
+Version: 0.2-1
+Date: 2011-04-21
+Title: Semiparametric modelling of nonlinear dynamical systems 
+Author: Jie Peng <jie@wald.ucdavis.edu> , Debashis Paul <debashis@wald.ucdavis.edu>
+Maintainer:  Jie Peng <jie@wald.ucdavis.edu>
+Description: Semiparametric modelling of nonlinear dynamical systems 
+License: GPL (>=2)
+Packaged: 2011-04-20 22:24:23 UTC; jie

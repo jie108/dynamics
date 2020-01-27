@@ -1,0 +1,2 @@
+useDynLib(dynamics)
+export(dynamics.fit, dynamics.cv)
